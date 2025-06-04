@@ -1,1 +1,1 @@
-print("hello world2  yyyyyyyyyyyyyyyryy")
+print("hello world2  uuuuuu")
